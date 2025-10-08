@@ -38,7 +38,7 @@ Para visualizar o portfólio em sua máquina local, siga os passos abaixo:
 2. Navegue até o diretório do portfólio:
 
    ```bash
-   cd Desenvolvimento-Web/
+   cd Desenvolvimento-Web
    ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
