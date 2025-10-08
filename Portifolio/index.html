@@ -20,7 +20,7 @@
     </header>
 
     <section class="hero">
-        <img src="foto diogo.jpeg" alt="Foto de Diogo Lana" class="profile-pic">
+        <img src="assets/foto diogo.jpeg" alt="Foto de Diogo Lana" class="profile-pic">
         <div class="hero-text">
             <h1>Estagiário em Automação de Processos</h1>
             <p>Transformando operações manuais em fluxos automatizados de alta performance.</p>
@@ -127,23 +127,26 @@
         </div>
     </section>
 
-
     <section id="contato">
         <h2>Contato</h2>
+
         <div class="contact-info">
             <p>📧 <a href="mailto:diogosilvalana27@gmail.com">diogosilvalana27@gmail.com</a></p>
             <p>📱 (31) 99519-0505</p>
-            <p>💼 <a href="https://www.linkedin.com/in/diogo-lana-644430198" target="_blank">LinkedIn</a> | 
-               <a href="https://github.com/Dhx27" target="_blank">GitHub</a></p>
+            <p>
+            💼 <a href="https://www.linkedin.com/in/diogo-lana-644430198" target="_blank">LinkedIn</a> | 
+            <a href="https://github.com/Dhx27" target="_blank">GitHub</a>
+            </p>
         </div>
 
-        <form>
+        <form >
             <input type="text" name="nome" placeholder="Seu nome" required>
-            <input type="email" name="email" placeholder="Seu email" required>
+            <input type="email" name="email" placeholder="Seu e-mail" required>
             <textarea name="mensagem" placeholder="Sua mensagem" required></textarea>
             <button type="submit">Enviar</button>
         </form>
     </section>
+
 
     <footer>
         <p>© 2025 Diogo Lana. Todos os direitos reservados.</p>
@@ -151,33 +154,7 @@
 
     <button id="topBtn">↑</button>
 
-    <script>
-        // Botão "Ver mais"
-        document.querySelectorAll(".toggle-btn").forEach(button => {
-            button.addEventListener("click", () => {
-                const details = button.nextElementSibling;
-                const isVisible = details.style.display === "block";
-
-                document.querySelectorAll(".project-details").forEach(d => d.style.display = "none");
-                document.querySelectorAll(".toggle-btn").forEach(b => b.textContent = "Ver mais");
-
-                if (!isVisible) {
-                    details.style.display = "block";
-                    button.textContent = "Ver menos";
-                }
-            });
-        });
-
-        // Botão voltar ao topo
-        const topBtn = document.getElementById("topBtn");
-        window.onscroll = () => {
-            if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-                topBtn.style.display = "block";
-            } else {
-                topBtn.style.display = "none";
-            }
-        };
-        topBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-    </script>
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
