@@ -22,9 +22,8 @@ Portifolio/
 
 ## 📸 Visualização
 
-Você pode visualizar o projeto clicando na imagem abaixo:
-
-![Captura de tela do portfólio](https://via.placeholder.com/600x400.png)
+Você pode visualizar o projeto clicando no link abaixo:
+https://dhx27.github.io/Desenvolvimento-Web/index.html
 
 ## 🛠️ Como Executar Localmente
 
@@ -39,7 +38,7 @@ Para visualizar o portfólio em sua máquina local, siga os passos abaixo:
 2. Navegue até o diretório do portfólio:
 
    ```bash
-   cd Desenvolvimento-Web/Portifolio
+   cd Desenvolvimento-Web/
    ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
