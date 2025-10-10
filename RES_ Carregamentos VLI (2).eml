@@ -1,0 +1,1078 @@
+Received: from AM7PR01MB6660.eurprd01.prod.exchangelabs.com
+ (2603:10a6:20b:1af::20) by PA4PR01MB10279.eurprd01.prod.exchangelabs.com with
+ HTTPS; Fri, 13 Jun 2025 11:54:34 +0000
+Received: from PA4PR01MB7264.eurprd01.prod.exchangelabs.com
+ (2603:10a6:102:fa::14) by AM7PR01MB6660.eurprd01.prod.exchangelabs.com
+ (2603:10a6:20b:1af::20) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8835.17; Fri, 13 Jun
+ 2025 11:54:33 +0000
+Received: from PA4PR01MB7264.eurprd01.prod.exchangelabs.com
+ ([fe80::acb9:1d87:c83b:8fc8]) by PA4PR01MB7264.eurprd01.prod.exchangelabs.com
+ ([fe80::acb9:1d87:c83b:8fc8%4]) with mapi id 15.20.8835.025; Fri, 13 Jun 2025
+ 11:54:33 +0000
+From: "Monteiro, Ronan Pires" <ronan.p.monteiro@arcelormittal.com.br>
+To: "Viana, Amanda Dos Reis" <amanda.r.viana@arcelormittal.com.br>
+Subject: RES: Carregamentos VLI
+Thread-Topic: Carregamentos VLI
+Thread-Index: AdvRbnkRDzCk/vyQTg+UX7E84Or9rAAAR2qAAAJcAGACuAveYAAAI3YA
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 13 Jun 2025 11:54:32 +0000
+Message-ID:
+	<PA4PR01MB7264594A931979BD50CC401DE377A@PA4PR01MB7264.eurprd01.prod.exchangelabs.com>
+References:
+	<PA4PR01MB7264B6686A90FE101AD5E57BE361A@PA4PR01MB7264.eurprd01.prod.exchangelabs.com>
+ <PA4PR01MB102794B71FA829EB4A64EF1B9E361A@PA4PR01MB10279.eurprd01.prod.exchangelabs.com>
+ <PA4PR01MB7264755CBB89BD57E6070179E361A@PA4PR01MB7264.eurprd01.prod.exchangelabs.com>
+ <PA4PR01MB10279F2CE5489BF678CC1FA47E377A@PA4PR01MB10279.eurprd01.prod.exchangelabs.com>
+In-Reply-To:
+	<PA4PR01MB10279F2CE5489BF678CC1FA47E377A@PA4PR01MB10279.eurprd01.prod.exchangelabs.com>
+Accept-Language: pt-BR, en-US
+Content-Language: pt-BR
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource:
+	PA4PR01MB7264.eurprd01.prod.exchangelabs.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+	4ace4680-9ecd-4233-2760-08ddaa710fc9
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	yxJQaS42SLvDOUKO8ffDSrX172/rXlVbisJ2ulRjhIy5uWvnDLGJSA+Jx0/W6dH0jbfaAZk0WYKIndBaN5bGRCShpZ47RHzTPTf+2b8CwkM4gUtJK37YYSJPmcCJRzfz31VRiHVHOUv+toHj5pKSsCmffaO2CWsjtCm9FpkTgRH23ZGeI2UPXnYt4pi47AvAUBPXfe2ORbxsKLMgftyLaVdSoFS+xXXz+U26eyiqZXSPVIclVp/8LXYH0KuAcgB+Xf2jtAfQDeTmfv5tIPGgQczCo4Fkfxt9Uw8WAOzZSrFahtprmKRXOjXMYDYiOg52KesVpzFcuTP8g2JfASxapmbNPH/tTuaHb51U93fAWykmiljOA7blUnyHFydADGx+I7msZ4mdI8WpyD0D0K3J4bj6SfacpgbVvIRhHWqfBKGUa4HhOErZX3RDCmab5X4dE5oQF529xd0OpsM/6t8w0M0GUYac31WyjnG4ZUDBDGsSai3ubrVte2T5VZBeT/1pAzb0wErdFUIkntOSi5hVyhg53PQgoIqkIXKgZHe3P4aTHoto5GPJHY2om00Wnp5Pz4gSCui1NjgOasqoxiE8cO5RP6aFThJLKmlqsE8JidEcQ/8ydnrMASkK16+8eEs+Oi/33V+GIwy1m5b7yfyqCRE8BbLHmbL74wdNbTa+kalCGB/Y+YlJ/iLVLD3uf9GdB9K8Ei3JCeWtbf0+pzBJux81RZy9eHHksLgqrYWzMSHUM4h5H331V0sBYqMEKQfXbP9v4yVldRGlg/ednwNUaCSp0GGo0zxLJ3Yc65lfFO+dLmyxOEmVZ/pZ1NaN5XC4B+kiKVdQIIdM/6/VUAtNQQ==
+Content-Type: multipart/related;
+	boundary="_004_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_
+Content-Type: multipart/alternative;
+	boundary="_000_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_"
+
+--_000_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Bom dia,
+
+
+
+Ok, essa balan=E7a seria a mais pr=F3xima para pesagem e acompanhamento de =
+fiscal da VLI.
+
+obrigado
+
+
+
+Att
+
+
+
+
+
+Ronan Pires Monteiro
+
+ArcelorMittal A=E7os Longos Brasil
+
+Ger=EAncia de Compras de Met=E1licos - GCMO
+
+T: +55 31 99804 2377
+
+
+
+Rua Onze, 185 - Jardim Riacho das Pedras
+Contagem - MG - Cep.: 32.220-025
+
+
+
+
+
+
+
+
+
+De: Viana, Amanda Dos Reis <amanda.r.viana@arcelormittal.com.br>
+Enviada em: sexta-feira, 13 de junho de 2025 08:50
+Para: Monteiro, Ronan Pires <ronan.p.monteiro@arcelormittal.com.br>
+Assunto: RES: Carregamentos VLI
+
+
+
+Bom dia Ronan,
+
+
+
+Para registro, em Lavras o fornecedor est=E1 cobrando 50$ para realizar a p=
+esagem.
+
+
+
+Att.,
+
+
+
+Amanda dos Reis Viana  | Analista de Planejamento Log=EDstico
+C +55 31 9922-6353
+
+
+ArcelorMittal A=E7os Longos Brasil
+
+Ger=EAncia de Opera=E7=F5es Log=EDsticas | Av. Caranda=ED, 1115 - 19=B0
+30140-003 - Belo Hoizonte - MG - Brasil
+
+
+
+
+
+De: Monteiro, Ronan Pires <ronan.p.monteiro@arcelormittal.com.br<mailto:ron=
+an.p.monteiro@arcelormittal.com.br>>
+Enviada em: sexta-feira, 30 de maio de 2025 12:41
+Para: Viana, Amanda Dos Reis <amanda.r.viana@arcelormittal.com.br<mailto:am=
+anda.r.viana@arcelormittal.com.br>>
+Assunto: RES: Carregamentos VLI
+
+
+
+At=E9 o momento sim Amanda, essas balan=E7as foram as mais pr=F3ximas da op=
+era=E7=E3o para acompanhamento do fiscal da VLI e AM.
+
+
+
+obrigado
+
+
+
+Att
+
+
+
+
+
+Ronan Pires Monteiro
+
+ArcelorMittal A=E7os Longos Brasil
+
+Ger=EAncia de Compras de Met=E1licos - GCMO
+
+T: +55 31 99804 2377
+
+
+
+Rua Onze, 185 - Jardim Riacho das Pedras
+Contagem - MG - Cep.: 32.220-025
+
+
+
+
+
+
+
+
+
+De: Viana, Amanda Dos Reis <amanda.r.viana@arcelormittal.com.br<mailto:aman=
+da.r.viana@arcelormittal.com.br>>
+Enviada em: sexta-feira, 30 de maio de 2025 11:33
+Para: Monteiro, Ronan Pires <ronan.p.monteiro@arcelormittal.com.br<mailto:r=
+onan.p.monteiro@arcelormittal.com.br>>
+Assunto: RES: Carregamentos VLI
+
+
+
+Bom dia Ronan,
+
+
+
+Sobre o valores da pesagem, est=E1 confirmado o valor da pesagem em divinop=
+olis 60$ e Lavras 40$ ?
+
+
+
+Att.,
+
+
+
+Amanda dos Reis Viana  | Analista de Planejamento Log=EDstico
+C +55 31 9922-6353
+
+
+ArcelorMittal A=E7os Longos Brasil
+
+Ger=EAncia de Opera=E7=F5es Log=EDsticas | Av. Caranda=ED, 1115 - 19=B0
+30140-003 - Belo Hoizonte - MG - Brasil
+
+
+
+
+
+De: Monteiro, Ronan Pires <ronan.p.monteiro@arcelormittal.com.br<mailto:ron=
+an.p.monteiro@arcelormittal.com.br>>
+Enviada em: sexta-feira, 30 de maio de 2025 11:26
+Para: Viana, Amanda Dos Reis <amanda.r.viana@arcelormittal.com.br<mailto:am=
+anda.r.viana@arcelormittal.com.br>>
+Assunto: Carregamentos VLI
+
+
+
+Bom dia Amanda!!
+
+
+
+Conforme conversamos todos os carregamentos da VLi teremos que pesar os ve=
+=EDculos por nossa conta onde especificamente n=E3o possuir balan=E7a do fo=
+rnecedor.
+
+
+
+Nesses locais onde precisamos pagar o fornecedor tem indicado a mais pr=F3x=
+imo do local para abrir peso e fechar junto com o fiscal da VLI e opera=E7=
+=E3o da AM.
+
+
+
+Gentileza sempre informar aos motoristas dessa necessidade.
+
+
+
+
+
+Att
+
+
+
+
+
+Ronan Pires Monteiro
+
+ArcelorMittal A=E7os Longos Brasil
+
+Ger=EAncia de Compras de Met=E1licos - GCMO
+
+T: +55 31 99804 2377
+
+
+
+Rua Onze, 185 - Jardim Riacho das Pedras
+Contagem - MG - Cep.: 32.220-025
+
+
+
+
+
+
+--_000_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ligatures:standardcontextual;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"PT-BR" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Bom dia,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Ok, essa balan=E7a seria a mais pr=F3xima para pesag=
+em e acompanhamento de fiscal da VLI.<o:p></o:p></p>
+<p class=3D"MsoNormal">obrigado<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR">Att<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR"><o:p>&nbsp;</o:p></span></b></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:86.95pt">
+<td width=3D"174" valign=3D"top" style=3D"width:130.75pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-=
+ligatures:none;mso-fareast-language:PT-BR"><img width=3D"153" height=3D"125=
+" style=3D"width:1.5972in;height:1.3055in" id=3D"_x0000_i1029" src=3D"cid:i=
+mage001.png@01DBDC40.C5E18330" alt=3D"Logotipo=0A=
+=0A=
+Descri=E7=E3o gerada automaticamente"><o:p></o:p></span></p>
+</td>
+<td width=3D"347" valign=3D"top" style=3D"width:260.15pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:12.0pt;line-height:115%;color:red;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR">Ronan Pires Monteiro</span></b><span style=3D"font-family:&quot;Ca=
+libri&quot;,sans-serif;color:dimgray;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:#FF3=
+700;mso-ligatures:none;mso-fareast-language:PT-BR">ArcelorMittal A=E7os Lon=
+gos Brasil<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:dimg=
+ray;mso-ligatures:none;mso-fareast-language:PT-BR">Ger=EAncia de Compras de=
+ Met=E1licos &#8211; GCMO<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"color:#=
+FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">T:</span></b><span st=
+yle=3D"color:navy;mso-ligatures:none;mso-fareast-language:PT-BR">&nbsp;</sp=
+an><span style=3D"color:dimgray;mso-ligatures:none;mso-fareast-language:PT-=
+BR">+55
+ 31 99804 2377<span style=3D"background:white"><o:p></o:p></span></span></p=
+>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"color:dimg=
+ray;background:white;mso-ligatures:none;mso-fareast-language:PT-BR"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;color:#767171;mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR">Rua Onze, 185 &#8211; Jardim Riacho das Pedras
+<br>
+Contagem - MG &#8211; Cep.: 32.220-025<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:PT-BR">De:</span></b><span=
+ style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:none;mso=
+-fareast-language:PT-BR"> Viana, Amanda Dos Reis &lt;amanda.r.viana@arcelor=
+mittal.com.br&gt;
+<br>
+<b>Enviada em:</b> sexta-feira, 13 de junho de 2025 08:50<br>
+<b>Para:</b> Monteiro, Ronan Pires &lt;ronan.p.monteiro@arcelormittal.com.b=
+r&gt;<br>
+<b>Assunto:</b> RES: Carregamentos VLI<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Bom dia Ronan,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Para registro, em Lavras o fornecedor est=E1 cobrand=
+o 50$ para realizar a pesagem.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR">Att.,<o:p></o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:86.95pt">
+<td width=3D"175" valign=3D"top" style=3D"width:131.15pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-=
+ligatures:none;mso-fareast-language:PT-BR"><img width=3D"153" height=3D"125=
+" style=3D"width:1.5902in;height:1.2986in" id=3D"_x0000_i1028" src=3D"cid:i=
+mage001.png@01DBDC40.C5E18330" alt=3D"Logotipo=0A=
+=0A=
+Descri=E7=E3o gerada automaticamente"></span><span style=3D"font-size:10.0p=
+t;font-family:&quot;Times New Roman&quot;,serif;mso-ligatures:none;mso-fare=
+ast-language:PT-BR"><o:p></o:p></span></p>
+</td>
+<td width=3D"399" valign=3D"top" style=3D"width:299.45pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" style=3D"text-align:justify;background:white"><b><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color=
+:#FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">Amanda dos Reis Via=
+na
+</span></b><span style=3D"font-size:10.0pt;font-family:&quot;Times New Roma=
+n&quot;,serif;color:navy;mso-ligatures:none;mso-fareast-language:PT-BR">&nb=
+sp;</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">|
+ Analista de Planejamento Log=EDstico<br>
+</span><b><span style=3D"font-size:10.0pt;color:#FF3700;mso-ligatures:none;=
+mso-fareast-language:PT-BR">C</span></b><span style=3D"font-size:10.0pt;col=
+or:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">&nbsp;+55
+<span style=3D"background:white">31 9922-6353</span></span><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:dimgray;ba=
+ckground:white;mso-ligatures:none;mso-fareast-language:PT-BR"><o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;background:white"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:navy;mso-ligatures:none;mso-fareast-language:PT-BR"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-s=
+erif;color:#FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">ArcelorMi=
+ttal A=E7os Longos Brasil</span><span style=3D"font-size:11.5pt;font-family=
+:&quot;Segoe UI&quot;,sans-serif;color:#212121;mso-ligatures:none;mso-farea=
+st-language:PT-BR"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:12.0p=
+t"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">Ger=EAncia de=
+ Opera=E7=F5es Log=EDsticas | Av. Caranda=ED, 1115 &#8211; 19=B0<br>
+30140-003 &#8211; Belo Hoizonte - MG &#8211; Brasil<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR"><o:p>&nbsp;</o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:PT-BR">De:</span></b><span=
+ style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:none;mso=
+-fareast-language:PT-BR"> Monteiro, Ronan Pires &lt;<a href=3D"mailto:ronan=
+.p.monteiro@arcelormittal.com.br">ronan.p.monteiro@arcelormittal.com.br</a>=
+&gt;
+<br>
+<b>Enviada em:</b> sexta-feira, 30 de maio de 2025 12:41<br>
+<b>Para:</b> Viana, Amanda Dos Reis &lt;<a href=3D"mailto:amanda.r.viana@ar=
+celormittal.com.br">amanda.r.viana@arcelormittal.com.br</a>&gt;<br>
+<b>Assunto:</b> RES: Carregamentos VLI<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">At=E9 o momento sim Amanda, essas balan=E7as foram a=
+s mais pr=F3ximas da opera=E7=E3o para acompanhamento do fiscal da VLI e AM=
+.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">obrigado<o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR">Att<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR"><o:p>&nbsp;</o:p></span></b></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:86.95pt">
+<td width=3D"174" valign=3D"top" style=3D"width:130.75pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-=
+ligatures:none;mso-fareast-language:PT-BR"><img border=3D"0" width=3D"153" =
+height=3D"125" style=3D"width:1.5902in;height:1.2986in" id=3D"Imagem_x0020_=
+2" src=3D"cid:image001.png@01DBDC40.C5E18330" alt=3D"Logotipo=0A=
+=0A=
+Descri=E7=E3o gerada automaticamente"></span><span style=3D"font-size:10.0p=
+t;font-family:&quot;Times New Roman&quot;,serif;mso-ligatures:none;mso-fare=
+ast-language:PT-BR"><o:p></o:p></span></p>
+</td>
+<td width=3D"347" valign=3D"top" style=3D"width:260.15pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:12.0pt;line-height:115%;color:red;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR">Ronan Pires Monteiro</span></b><span style=3D"font-family:&quot;Ca=
+libri&quot;,sans-serif;color:dimgray;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:#FF3=
+700;mso-ligatures:none;mso-fareast-language:PT-BR">ArcelorMittal A=E7os Lon=
+gos Brasil<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:dimg=
+ray;mso-ligatures:none;mso-fareast-language:PT-BR">Ger=EAncia de Compras de=
+ Met=E1licos &#8211; GCMO<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"color:#=
+FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">T:</span></b><span st=
+yle=3D"color:navy;mso-ligatures:none;mso-fareast-language:PT-BR">&nbsp;</sp=
+an><span style=3D"color:dimgray;mso-ligatures:none;mso-fareast-language:PT-=
+BR">+55
+ 31 99804 2377<span style=3D"background:white"><o:p></o:p></span></span></p=
+>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"color:dimg=
+ray;background:white;mso-ligatures:none;mso-fareast-language:PT-BR"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;color:#767171;mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR">Rua Onze, 185 &#8211; Jardim Riacho das Pedras
+<br>
+Contagem - MG &#8211; Cep.: 32.220-025<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:PT-BR">De:</span></b><span=
+ style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:none;mso=
+-fareast-language:PT-BR"> Viana, Amanda Dos Reis &lt;<a href=3D"mailto:aman=
+da.r.viana@arcelormittal.com.br">amanda.r.viana@arcelormittal.com.br</a>&gt=
+;
+<br>
+<b>Enviada em:</b> sexta-feira, 30 de maio de 2025 11:33<br>
+<b>Para:</b> Monteiro, Ronan Pires &lt;<a href=3D"mailto:ronan.p.monteiro@a=
+rcelormittal.com.br">ronan.p.monteiro@arcelormittal.com.br</a>&gt;<br>
+<b>Assunto:</b> RES: Carregamentos VLI<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Bom dia Ronan,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Sobre o valores da pesagem, est=E1 confirmado o valo=
+r da pesagem em divinopolis 60$ e Lavras 40$ ?<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR">Att.,<o:p></o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:86.95pt">
+<td width=3D"175" valign=3D"top" style=3D"width:131.15pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-=
+ligatures:none;mso-fareast-language:PT-BR"><img border=3D"0" width=3D"153" =
+height=3D"125" style=3D"width:1.5902in;height:1.2986in" id=3D"_x0000_i1026"=
+ src=3D"cid:image001.png@01DBDC40.C5E18330" alt=3D"Logotipo=0A=
+=0A=
+Descri=E7=E3o gerada automaticamente"></span><span style=3D"font-size:10.0p=
+t;font-family:&quot;Times New Roman&quot;,serif;mso-ligatures:none;mso-fare=
+ast-language:PT-BR"><o:p></o:p></span></p>
+</td>
+<td width=3D"399" valign=3D"top" style=3D"width:299.45pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" style=3D"text-align:justify;background:white"><b><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color=
+:#FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">Amanda dos Reis Via=
+na
+</span></b><span style=3D"font-size:10.0pt;font-family:&quot;Times New Roma=
+n&quot;,serif;color:navy;mso-ligatures:none;mso-fareast-language:PT-BR">&nb=
+sp;</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">|
+ Analista de Planejamento Log=EDstico<br>
+</span><b><span style=3D"font-size:10.0pt;color:#FF3700;mso-ligatures:none;=
+mso-fareast-language:PT-BR">C</span></b><span style=3D"font-size:10.0pt;col=
+or:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">&nbsp;+55
+<span style=3D"background:white">31 9922-6353</span></span><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:dimgray;ba=
+ckground:white;mso-ligatures:none;mso-fareast-language:PT-BR"><o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;background:white"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;col=
+or:navy;mso-ligatures:none;mso-fareast-language:PT-BR"><br>
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-s=
+erif;color:#FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">ArcelorMi=
+ttal A=E7os Longos Brasil</span><span style=3D"font-size:11.5pt;font-family=
+:&quot;Segoe UI&quot;,sans-serif;color:#212121;mso-ligatures:none;mso-farea=
+st-language:PT-BR"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;margin-bottom:12.0p=
+t"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:dimgray;mso-ligatures:none;mso-fareast-language:PT-BR">Ger=EAncia de=
+ Opera=E7=F5es Log=EDsticas | Av. Caranda=ED, 1115 &#8211; 19=B0<br>
+30140-003 &#8211; Belo Hoizonte - MG &#8211; Brasil<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR"><o:p>&nbsp;</o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,sa=
+ns-serif;mso-ligatures:none;mso-fareast-language:PT-BR">De:</span></b><span=
+ style=3D"font-family:&quot;Calibri&quot;,sans-serif;mso-ligatures:none;mso=
+-fareast-language:PT-BR"> Monteiro, Ronan Pires &lt;<a href=3D"mailto:ronan=
+.p.monteiro@arcelormittal.com.br">ronan.p.monteiro@arcelormittal.com.br</a>=
+&gt;
+<br>
+<b>Enviada em:</b> sexta-feira, 30 de maio de 2025 11:26<br>
+<b>Para:</b> Viana, Amanda Dos Reis &lt;<a href=3D"mailto:amanda.r.viana@ar=
+celormittal.com.br">amanda.r.viana@arcelormittal.com.br</a>&gt;<br>
+<b>Assunto:</b> Carregamentos VLI<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Bom dia Amanda!!<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Conforme conversamos todos os carregamentos da VLi t=
+eremos que pesar os ve=EDculos por nossa conta onde especificamente n=E3o p=
+ossuir balan=E7a do fornecedor.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Nesses locais onde precisamos pagar o fornecedor tem=
+ indicado a mais pr=F3ximo do local para abrir peso e fechar junto com o fi=
+scal da VLI e opera=E7=E3o da AM.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Gentileza sempre informar aos motoristas dessa neces=
+sidade.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR">Att<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#FF3700;background:white;mso-ligatures:none;m=
+so-fareast-language:PT-BR"><o:p>&nbsp;</o:p></span></b></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:86.95pt">
+<td width=3D"174" valign=3D"top" style=3D"width:130.75pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-=
+ligatures:none;mso-fareast-language:PT-BR"><img border=3D"0" width=3D"153" =
+height=3D"125" style=3D"width:1.5902in;height:1.2986in" id=3D"Imagem_x0020_=
+1" src=3D"cid:image001.png@01DBDC40.C5E18330" alt=3D"Logotipo=0A=
+=0A=
+Descri=E7=E3o gerada automaticamente"></span><span style=3D"font-size:10.0p=
+t;font-family:&quot;Times New Roman&quot;,serif;mso-ligatures:none;mso-fare=
+ast-language:PT-BR"><o:p></o:p></span></p>
+</td>
+<td width=3D"347" valign=3D"top" style=3D"width:260.15pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:86.95pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:12.0pt;line-height:115%;color:red;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR">Ronan Pires Monteiro</span></b><span style=3D"font-family:&quot;Ca=
+libri&quot;,sans-serif;color:dimgray;mso-ligatures:none;mso-fareast-languag=
+e:PT-BR"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:#FF3=
+700;mso-ligatures:none;mso-fareast-language:PT-BR">ArcelorMittal A=E7os Lon=
+gos Brasil<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"color:dimg=
+ray;mso-ligatures:none;mso-fareast-language:PT-BR">Ger=EAncia de Compras de=
+ Met=E1licos &#8211; GCMO<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"color:#=
+FF3700;mso-ligatures:none;mso-fareast-language:PT-BR">T:</span></b><span st=
+yle=3D"color:navy;mso-ligatures:none;mso-fareast-language:PT-BR">&nbsp;</sp=
+an><span style=3D"color:dimgray;mso-ligatures:none;mso-fareast-language:PT-=
+BR">+55
+ 31 99804 2377<span style=3D"background:white"><o:p></o:p></span></span></p=
+>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"color:dimg=
+ray;background:white;mso-ligatures:none;mso-fareast-language:PT-BR"><o:p>&n=
+bsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;color:#767171;mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR">Rua Onze, 185 &#8211; Jardim Riacho das Pedras
+<br>
+Contagem - MG &#8211; Cep.: 32.220-025<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:none;mso-fareast-langua=
+ge:PT-BR"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_--
+
+--_004_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=19890;
+	creation-date="Fri, 13 Jun 2025 11:54:31 GMT";
+	modification-date="Wed, 08 Oct 2025 13:26:08 GMT"
+Content-ID: <image001.png@01DBDC40.C5E18330>
+Content-Transfer-Encoding: base64
+
+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
+rkJggg==
+
+--_004_PA4PR01MB7264594A931979BD50CC401DE377APA4PR01MB7264eurp_--
