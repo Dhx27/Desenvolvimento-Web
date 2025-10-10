@@ -1,6 +1,3 @@
-
-emailjs.init("pzvFpXDU-ne-uKy8UlpU9");
-
 // Botão "Ver mais"
 document.querySelectorAll(".toggle-btn").forEach(button => {
     button.addEventListener("click", () => {
@@ -28,15 +25,31 @@ window.onscroll = () => {
 };
 topBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
-// Envio do formulário de contato via EmailJS
-document.getElementById('contact-form').addEventListener('submit', function (event) {
-    event.preventDefault();
 
-    emailjs.sendForm('service_noxe8l1', 'template_1wgw45b', this)
-        .then(function () {
-            alert('Mensagem enviada com sucesso!');
-            document.getElementById('contact-form').reset();
-        }, function (error) {
-            alert('Erro ao enviar mensagem: ' + JSON.stringify(error));
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("#contato form");
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        // Pegando os valores corretamente
+        const nome = form.querySelector('input[name="nome"]').value;
+        const email = form.querySelector('input[name="email"]').value;
+        const mensagem = form.querySelector('textarea[name="mensagem"]').value;
+
+        // Enviando com EmailJS
+        emailjs.send("service_dt5ptjq", "template_1wgw45b", {
+            from_name: nome,
+            from_email: email,
+            message: mensagem,
+        })
+        .then(function() {
+            alert("Mensagem enviada com sucesso! 🚀");
+            form.reset();
+        })
+        .catch(function(error) {
+            console.error("Erro:", error);
+            alert("Erro ao enviar a mensagem ❌");
         });
+    });
 });
